@@ -1,0 +1,38 @@
+.box1{
+margin-left: 350px;
+background-color: #dcdcdc;
+width: 565px;
+height: 818px;
+border-radius: 20px;
+background: #FAFAFA;
+}
+.photo{
+    margin-left: 30%;
+    margin-top: 15%;
+    width: 237.95px;
+    height: 184.57px;
+    left: 595px;  
+}
+.h_one{
+    margin-left: 30px;
+    font-weight: 700;
+}
+.hr_one{
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #DDDDDD;
+}
+.p_1{
+    margin-left: 30px;
+    font-size: 19px;
+    font-weight: 400px;
+    width: 443px;
+}
+.a1{
+    margin-left: 440px;
+    margin-top: 800px;
+    color: blue;
+    font-weight: 500px;
+    font-size: 20px;
+    text-decoration: none;
+}
